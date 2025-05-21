@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="1.0">
+	<head>
+		<title>My ML Feed</title>
+		<url>https://subhajit-paul.vercel.app/about</url>
+		<ownerName>Subhajit Paul</ownerName>
+		<ownerEmail>test.dev.paul@gmail.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Machine Learning" title="Machine Learning">
+			<outline text="MachineLearningMastery.com" title="MachineLearningMastery.com"
+				description="Making developers awesome at machine learning"
+				xmlUrl="https://machinelearningmastery.com/blog/feed" type="rss" />
+			<outline text="AWS Machine Learning Blog" title="AWS Machine Learning Blog"
+				description="Official Machine Learning Blog of Amazon Web Services"
+				xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed/" type="rss" />
+			<outline text="cs.LG updates on arXiv.org"
+				title="cs.LG updates on arXiv.org"
+				description="cs.LG updates on the arXiv.org e-print archive."
+				xmlUrl="https://rss.arxiv.org/rss/cs.LG" type="rss" />
+			<outline text="r/machinelearning" title="r/machinelearning"
+				description="Official Reddit handle for Machine Learning"
+				xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" type="rss" />
+			<outline text="ML in Production" title="ML in Production"
+				description="Best practices for building real world machine learning systems"
+				xmlUrl="https://mlinproduction.com/feed/" type="rss" />
+			<outline text="Towards Data Science" title="Towards Data Science"
+				description="The world's leading publication for data science, AI, and ML professionals."
+				xmlUrl="https://towardsdatascience.com/feed/" type="rss" />
+			<outline text="MIT News - Machine learning" title="MIT News - Machine learning"
+				description="MIT news feed about: Machine learning"
+				xmlUrl="https://news.mit.edu/rss/topic/machine-learning" type="rss" />
+			<outline text="Berkeley News - Machine learning" title="Berkeley News - Machine learning"
+				description="Machine Learning at Berkeley is a student organization at UC Berkeley"
+				xmlUrl="https://mlberkeley.substack.com/feed" type="rss" />
+			<outline text="Oreilly - Machine learning" title="Oreilly - Machine learning"
+				description="Now, next, and beyond: Tracking need-to-know trends at the intersection of business and technology"
+				xmlUrl="https://www.oreilly.com/radar/topics/ai-ml/feed/" type="rss" />
+			<outline text="- Archives Page 1 | NVIDIA Blog" title="- Archives Page 1 | NVIDIA Blog"
+				description=""
+				xmlUrl="https://blogs.nvidia.com/blog/category/deep-learning/feed/" type="rss" />
+		</outline>
+	</body>
+</opml>
