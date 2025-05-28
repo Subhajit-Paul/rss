@@ -39,6 +39,9 @@
 			<outline text="- Archives Page 1 | NVIDIA Blog" title="- Archives Page 1 | NVIDIA Blog"
 				description=""
 				xmlUrl="https://blogs.nvidia.com/blog/category/deep-learning/feed/" type="rss" />
+     <outline text="LangChain Blog" title="LangChain Blog"
+				description=""
+				xmlUrl="https://blog.langchain.dev/rss/" type="rss" />
 		</outline>
 	</body>
 </opml>
